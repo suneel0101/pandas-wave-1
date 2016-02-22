@@ -18,7 +18,7 @@ Fluency with more advanced pandas concepts.
 - [Rock songs](https://s3-us-west-2.amazonaws.com/ga-dat-2015-suneel/rock.csv)
 - [Crunchbase](https://raw.githubusercontent.com/suneel0101/lesson-plan/master/crunchbase_monthly_export.csv)
 
-# Working with textual data
+# Working with textual/categorical data
 - text comparison methods
 - text manipulation methods (`strip`, `lower`, `replace`, `split`)
 
